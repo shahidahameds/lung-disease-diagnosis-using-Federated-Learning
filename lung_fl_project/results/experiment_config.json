@@ -1,0 +1,32 @@
+{
+  "dataset": "C:\\Users\\reyaj\\Downloads\\Shahid phase 1\\lung_fl_project\\data",
+  "dataset_mode": "DEMO_SUBSET",
+  "FULL_DATASET_SIZE": {
+    "train": 5216,
+    "test": 624
+  },
+  "EXPERIMENT_TRAIN_SUBSET": 256,
+  "EXPERIMENT_TEST_SUBSET": 128,
+  "experiment_max_train_samples_per_client": 32,
+  "experiment_max_test_samples": 128,
+  "classes": [
+    "NORMAL",
+    "PNEUMONIA"
+  ],
+  "num_classes": 2,
+  "num_hospitals": 4,
+  "departments_per_hospital": 2,
+  "total_clients": 8,
+  "rounds": 3,
+  "local_epochs": 1,
+  "batch_size": 8,
+  "learning_rate": 0.0001,
+  "clip_norm": 1.0,
+  "noise_multiplier": 0.05,
+  "anomaly_threshold": 0.6,
+  "model_configuration": "InceptionV3 + VGG16 + ResNet50 + Custom CNN; frozen pretrained backbones",
+  "random_seed": 42,
+  "device": "cpu",
+  "class_weighted_loss": true,
+  "feature_cache": true
+}

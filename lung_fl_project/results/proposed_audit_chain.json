@@ -1,0 +1,93 @@
+[
+  {
+    "hospital_id": "genesis",
+    "communication_round": 0,
+    "timestamp": 1789094231.039058,
+    "update_hash": "0",
+    "previous_hash": "0"
+  },
+  {
+    "hospital_id": 0,
+    "communication_round": 1,
+    "timestamp": 1789094242.398072,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "eb35907f26a5a081e701f8eb2f885b91495da287c2d2468eb815a52864a6d102"
+  },
+  {
+    "hospital_id": 1,
+    "communication_round": 1,
+    "timestamp": 1789094257.5059648,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "93c9819c4aaabc6c9168052367060cb08934961f9ce3a45672817e33b8e7856a"
+  },
+  {
+    "hospital_id": 2,
+    "communication_round": 1,
+    "timestamp": 1789094270.9200404,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "9ae8556719204807e72f8cbe6609872522868d3b4a510e3bf56b672158be463c"
+  },
+  {
+    "hospital_id": 3,
+    "communication_round": 1,
+    "timestamp": 1789094283.7115655,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "3f826ffad9dc96647f199e88fff2684861d6e4b870952ebb92581f1c02bd5532"
+  },
+  {
+    "hospital_id": 0,
+    "communication_round": 2,
+    "timestamp": 1789094309.7614162,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "c3cefe745a1bd51a95ccd3f6a3406fef32a2b221d3f3338f0034b0def59d6219"
+  },
+  {
+    "hospital_id": 1,
+    "communication_round": 2,
+    "timestamp": 1789094326.1574814,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "aac709f58057386f0f914d9f79ceafcddc0d97de88f96be40c284b7dee3cbdc0"
+  },
+  {
+    "hospital_id": 2,
+    "communication_round": 2,
+    "timestamp": 1789094340.4298396,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "92e433440ec3631786406a742120c93a5b137e86c8a3b25d89454bb6c13ade5f"
+  },
+  {
+    "hospital_id": 3,
+    "communication_round": 2,
+    "timestamp": 1789094352.522816,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "3deed77bc8bb88e1a08d74e92ed2136664a23f0478f0adaef97e12f698392d4d"
+  },
+  {
+    "hospital_id": 0,
+    "communication_round": 3,
+    "timestamp": 1789094370.435745,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "3fde0244115807a1c75bde8e26812e26f2080e4b4f1185d11e61af8fd015e787"
+  },
+  {
+    "hospital_id": 1,
+    "communication_round": 3,
+    "timestamp": 1789094383.2713552,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "9867a7b97e17783f78ec868694be96995ecded946ecd80efc39b22d29bf06de7"
+  },
+  {
+    "hospital_id": 2,
+    "communication_round": 3,
+    "timestamp": 1789094396.3012817,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "775605d606eb764ee0993d71efdc42930be7f05ae451479b89840c5fd93bf28a"
+  },
+  {
+    "hospital_id": 3,
+    "communication_round": 3,
+    "timestamp": 1789094409.688229,
+    "update_hash": "d47d80ae8aa302ef63a9b625f2dfdcf31ea1d57a065dd9579a3687c187af0780",
+    "previous_hash": "bc7ff2a062777cb00e42cc1d7cf09037854b0aeb31bbaf211ada06478b965f6d"
+  }
+]

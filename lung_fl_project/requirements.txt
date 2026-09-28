@@ -1,0 +1,11 @@
+torch==2.8.0
+torchvision==0.23.0
+numpy==2.4.4
+pandas==2.3.1
+scikit-learn==1.7.1
+matplotlib==3.10.3
+opencv-python==4.13.0.92
+shap==0.51.0
+tqdm==4.67.1
+streamlit==1.64.0
+scikit-image==0.26.0

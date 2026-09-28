@@ -1,0 +1,50 @@
+{
+  "previous_runtime_seconds": 529.2177548408508,
+  "new_runtime_seconds": 133.84377002716064,
+  "baseline_runtime_seconds": 529.2177548408508,
+  "optimized_runtime_seconds": 133.84377002716064,
+  "speedup": 3.9539961757910564,
+  "configuration": {
+    "hospitals": 4,
+    "clients": 8,
+    "rounds": 3,
+    "local_epochs": 1,
+    "train_samples": 256,
+    "test_samples": 128
+  },
+  "dataset_mode": "DEMO_SUBSET",
+  "same_configuration": true,
+  "random_seed": 42,
+  "baseline_metrics": {
+    "Accuracy": 0.6875,
+    "Precision": 0.75,
+    "Recall": 0.6875,
+    "F1": 0.6666666666666666,
+    "AUC": 0.817626953125
+  },
+  "optimized_metrics": {
+    "Accuracy": 0.6015625,
+    "Precision": 0.6036114570361146,
+    "Recall": 0.6015625,
+    "F1": 0.5995828988529719,
+    "AUC": 0.6689453125
+  },
+  "historical_previous_run": {
+    "runtime_seconds": 614.3942093849182,
+    "Accuracy": 0.6875,
+    "Precision": 0.75,
+    "Recall": 0.6875,
+    "F1": 0.6666666666666666,
+    "AUC": 0.817626953125
+  },
+  "timings_seconds": {
+    "dataset_loading_seconds": 0.4032926999971096,
+    "model_initialization_seconds": 4.45406859999639,
+    "feature_cache_seconds": 30.013659699998243,
+    "local_client_training_seconds": 22.170003399998677,
+    "aggregation_seconds": 3.5180969999855733,
+    "validation_seconds": 1.9295657000002393,
+    "checkpoint_saving_seconds": 0.21770250000190572,
+    "evaluation_seconds": 0.34148320000167587
+  }
+}

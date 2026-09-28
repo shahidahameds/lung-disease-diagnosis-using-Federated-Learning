@@ -1,0 +1,5 @@
+Configuration,C_flat_bytes,C_hier_bytes,R_comm_reduction_percent,Rounds,Hospitals,Clients,Model Bytes,CLIP_NORM,NOISE_MULTIPLIER,Audit Chain Valid,Aggregation Structure
+Basic FL,NOT_AVAILABLE,NOT_AVAILABLE,NOT_AVAILABLE,3,4,8,43411257540,0,0.0,True,8 clients -> central FedAvg
+FL + DP,NOT_AVAILABLE,NOT_AVAILABLE,NOT_AVAILABLE,3,4,8,43411257540,1.0,0.05,True,8 DP-protected clients -> central FedAvg
+Hierarchical FL,NOT_AVAILABLE,NOT_AVAILABLE,NOT_AVAILABLE,3,4,8,43411257540,0,0.0,True,2 departments per hospital -> hospital aggregation -> central aggregation
+Proposed Framework,NOT_AVAILABLE,NOT_AVAILABLE,NOT_AVAILABLE,3,4,8,43411257540,1.0,0.05,True,2 departments per hospital -> hospital aggregation -> audit/anomaly screening -> central aggregation
